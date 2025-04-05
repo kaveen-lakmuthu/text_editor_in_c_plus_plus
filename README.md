@@ -7,7 +7,7 @@ Just a small text editor made for practice C++ programming.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kaveen-lakmuthu/text_editor_in_c++.git
+   https://github.com/kaveen-lakmuthu/text_editor_in_c_plus_plus.git
    ```
 
 2. Compile the program:
